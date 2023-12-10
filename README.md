@@ -5,10 +5,12 @@ Learning the Basics of JavaScript, HTML and CSS
 
 ## Requirements and skills
 
-1. Familiarity with common stacks
-2. Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
-3. Knowledge of back-end languages (C#, .Net Core) and JavaScript frameworks (React JS)
-4. Familiarity with databases (e.g. MySQL, Oracle) and UI/UX design
+1. Analytical Thinking
+2. Team Spirit
+3. MS Azure
+4. Java Script
+5. HTML
+6. Power Apps and Power BI
 
 ## What i actually need to learn
 
