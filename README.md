@@ -2,7 +2,6 @@
 
 Learning the Basics of JavaScript, HTML and CSS
 
-
 ## Requirements and skills
 
 1. Analytical Thinking
