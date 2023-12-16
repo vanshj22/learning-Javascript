@@ -1,6 +1,8 @@
 # learning-Javascript
 
-Learning the Basics of JavaScript, HTML and CSS
+Learning the Basics of JavaScript, HTML and CSS\
+
+website: https://vanshj22.github.io/learning-Javascript/module_3/index.html 
 
 ## Requirements and skills
 
