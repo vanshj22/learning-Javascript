@@ -10,3 +10,5 @@ website: * (https://vanshj22.github.io/learning-Javascript/readme.html)
 * [Module-3](https://vanshj22.github.io/learning-Javascript/module_3/index.html)
 * [Module-4](https://vanshj22.github.io/learning-Javascript/module_4/index.html)
 * [Module-5](https://vanshj22.github.io/learning-Javascript/module_5/index.html)
+
+[Movie-App](https://vanshj22.github.io/learning-Javascript/movie-app/)
